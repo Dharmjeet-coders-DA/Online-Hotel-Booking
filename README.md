@@ -101,4 +101,3 @@ It focuses on yearly performance and booking distribution.
 
 **Dharmjeet Prajapati**  
 Aspiring Data Analyst  
-📫 LinkedIn: https://linkedin.com/in/your-profile
